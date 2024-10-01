@@ -1,4 +1,6 @@
-- ls -l--> list the files and directories in long list format with extra information
+# Listing commands
+
+- ls ---> list the files and directories in long list format with extra information
 
 - ls -a --- list all including hidden files and directory
 
